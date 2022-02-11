@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gastos01/static/css/main.c5c03511.css",
+    "main.js": "/gastos01/static/js/main.86fd45ca.js",
+    "index.html": "/gastos01/index.html",
+    "main.c5c03511.css.map": "/gastos01/static/css/main.c5c03511.css.map",
+    "main.86fd45ca.js.map": "/gastos01/static/js/main.86fd45ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c03511.css",
+    "static/js/main.86fd45ca.js"
+  ]
+}
